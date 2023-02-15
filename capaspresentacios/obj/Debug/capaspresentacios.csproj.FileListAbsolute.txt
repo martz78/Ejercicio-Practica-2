@@ -1,0 +1,126 @@
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\capaspresentacios.dll.config
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\capaspresentacios.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\capaspresentacios.pdb
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\csc.exe
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\csc.exe.config
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\csc.rsp
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\csi.exe
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\csi.exe.config
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\csi.rsp
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\System.AppContext.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\System.Console.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\System.IO.Compression.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\System.Net.Http.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\System.Net.Sockets.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\System.ValueTuple.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\vbc.exe
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\vbc.exe.config
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\vbc.rsp
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\VBCSCompiler.exe
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\capa-logica-negocio.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\capa-acceso-datos.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\capa-logica-negocio.pdb
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\bin\capa-acceso-datos.pdb
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\obj\Debug\capaspresentacios.csproj.AssemblyReference.cache
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\obj\Debug\capaspresentacios.csproj.CoreCompileInputs.cache
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\obj\Debug\capaspresentacios.csproj.CopyComplete
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\obj\Debug\capaspresentacios.dll
+C:\Users\CDS2\source\repos\Practica-2\capaspresentacios\obj\Debug\capaspresentacios.pdb
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\capaspresentacios.dll.config
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\capaspresentacios.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\capaspresentacios.pdb
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\csc.exe
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\csc.exe.config
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\csc.rsp
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\csi.exe
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\csi.exe.config
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\csi.rsp
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\System.AppContext.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\System.Console.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\System.IO.Compression.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\System.Net.Http.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\System.Net.Sockets.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\System.ValueTuple.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\vbc.exe
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\vbc.exe.config
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\vbc.rsp
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\VBCSCompiler.exe
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\capa-logica-negocio.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\capa-acceso-datos.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\capa-logica-negocio.pdb
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\bin\capa-acceso-datos.pdb
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\obj\Debug\capaspresentacios.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\obj\Debug\capaspresentacios.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\obj\Debug\capaspresentacios.csproj.CopyComplete
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\obj\Debug\capaspresentacios.dll
+C:\Users\TOSHIBA\Documents\CICLO #7 2023\Practicas P.W.A\Practicas\Practica_2\capaspresentacios\obj\Debug\capaspresentacios.pdb

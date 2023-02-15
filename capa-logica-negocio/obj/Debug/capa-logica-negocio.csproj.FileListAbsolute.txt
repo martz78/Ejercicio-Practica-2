@@ -1,0 +1,9 @@
+C:\Users\CDS2\source\repos\Practica-2\capa-logica-negocio\bin\Debug\capa-logica-negocio.dll
+C:\Users\CDS2\source\repos\Practica-2\capa-logica-negocio\bin\Debug\capa-logica-negocio.pdb
+C:\Users\CDS2\source\repos\Practica-2\capa-logica-negocio\bin\Debug\capa-acceso-datos.dll
+C:\Users\CDS2\source\repos\Practica-2\capa-logica-negocio\bin\Debug\capa-acceso-datos.pdb
+C:\Users\CDS2\source\repos\Practica-2\capa-logica-negocio\obj\Debug\capa-logica-negocio.csproj.AssemblyReference.cache
+C:\Users\CDS2\source\repos\Practica-2\capa-logica-negocio\obj\Debug\capa-logica-negocio.csproj.CoreCompileInputs.cache
+C:\Users\CDS2\source\repos\Practica-2\capa-logica-negocio\obj\Debug\capa-logica-negocio.csproj.CopyComplete
+C:\Users\CDS2\source\repos\Practica-2\capa-logica-negocio\obj\Debug\capa-logica-negocio.dll
+C:\Users\CDS2\source\repos\Practica-2\capa-logica-negocio\obj\Debug\capa-logica-negocio.pdb
